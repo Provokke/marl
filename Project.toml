@@ -1,0 +1,13 @@
+name = "Marl"
+uuid = "6f1c2b7e-3d54-4a8e-9b0a-5c7e2d1f8a43"
+authors = ["Provokke"]
+version = "0.1.0"
+
+[compat]
+julia = "1.9"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
