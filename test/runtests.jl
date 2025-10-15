@@ -73,3 +73,4 @@ oscillator(t, u) = [u[2], -u[1]]
         @test_throws ArgumentError euler(decay, 1.0, (0.0, 1.0); dt = -0.1)
     end
 end
+
