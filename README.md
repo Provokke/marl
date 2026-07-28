@@ -89,4 +89,3 @@ julia> cos(10.0), -sin(10.0)
 ## Licence
 
 MIT.
-
